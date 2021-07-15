@@ -1,10 +1,12 @@
 <div align="center">
-  <img alt="Logo" src="(https://user-images.githubusercontent.com/51394913/125827985-27d6b410-30c8-48e1-9f86-bedcbaf88a08.png" width="100" />
+  <img alt="Logo" src="https://user-images.githubusercontent.com/51394913/125827985-27d6b410-30c8-48e1-9f86-bedcbaf88a08.png" width="100" />
 </div>
 <h1 align="center">
  Alen Jojo
 </h1>
+
 ![demo](https://user-images.githubusercontent.com/51394913/125828079-b172e887-e7ec-48b5-9dc6-2d5b1cf90812.PNG)
+
 ## 🛠 Installation & Set Up
 
 1. Install the Gatsby CLI
