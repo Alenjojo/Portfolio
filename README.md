@@ -4,6 +4,10 @@
 <h1 align="center">
  Alen Jojo
 </h1>
+<h4 align="center">
+<br>
+Designed and Build by Brittany Chiang<br>
+</h4>
 
 ![demo](https://user-images.githubusercontent.com/51394913/125828079-b172e887-e7ec-48b5-9dc6-2d5b1cf90812.PNG)
 
