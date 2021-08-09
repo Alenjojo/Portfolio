@@ -1,5 +1,5 @@
 ---
-date: '3'
+date: '2'
 title: 'Team-Up'
 cover: './1.png'
 github: 'https://github.com/Alenjojo/Team-Up.git'

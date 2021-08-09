@@ -1,7 +1,6 @@
 ---
-date: '1'
+date: '2021-02-01'
 title: 'Weather App'
-cover: './1.png'
 github: 'https://github.com/Alenjojo/Weather_App'
 external: ''
 tech:
@@ -9,5 +8,3 @@ tech:
   - JAVA(Android)
 showInProjects: true
 ---
-
-Purpose-It is used to check the current weatherfor a specific city

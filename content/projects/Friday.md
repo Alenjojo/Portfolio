@@ -1,5 +1,5 @@
 ---
-date: '2019-07-15'
+date: '2020-09-01'
 title: 'Friday'
 github: 'https://github.com/Alenjojo/Friday.git'
 external: ''

@@ -1,6 +1,6 @@
 ---
 date: '2018-05-14'
-title: 'Engineer'
+title: 'Open Source Contributor'
 company: 'GIRLSCRIPT SUMMER OF CODE'
 location: ''
 range: 'Feb 2021 - May 2021'

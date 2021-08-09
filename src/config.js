@@ -7,10 +7,6 @@ module.exports = {
       url: 'https://github.com/Alenjojo',
     },
     {
-      name: 'Instagram',
-      url: 'https://www.instagram.com/mid_space_walker',
-    },
-    {
       name: 'Twitter',
       url: 'https://twitter.com/alen_jojo_',
     },

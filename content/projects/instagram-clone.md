@@ -1,9 +1,10 @@
 ---
-date: '2'
-title: 'Intagram(Clone)'
-cover: './1.png'
+date: '2019-07-01'
+title: 'Intagram-Clone (Flutter)'
 github: 'https://github.com/Alenjojo/Instagram-clone'
 external: ''
+ios: ''
+android: ''
 tech:
   - Flutter
   - Firebase
@@ -11,5 +12,3 @@ tech:
   - Video Call Function
 showInProjects: true
 ---
-
-A cloned version of Instagram application with all its functionalities enabled
